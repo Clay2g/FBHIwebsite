@@ -966,7 +966,7 @@ section {
 
 @media screen and (min-width: 992px) {
   .header .primary-menu ul li.has-menu-child ul.sub-menu a {
-    color: rgb(200, 200, 200);
+    color: rgb(230, 230, 230);
     font-size: 14px;
     padding: 8px 5px 10px 25px;
     position: relative;
