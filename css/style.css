@@ -852,7 +852,7 @@ section {
   position: absolute;
   left: 0;
   top: 0;
-  height: 88px;
+  height: 100px;
   width: 100%;
   z-index: 9;
   -webkit-transition: all .5s;
@@ -873,7 +873,7 @@ section {
 
 .header .logo {
   display: block;
-  max-width: 138px;
+  max-width: 200px;
 }
 
 .header .primary-menu {
